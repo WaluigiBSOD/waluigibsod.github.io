@@ -1,0 +1,74 @@
+/*
+	Waluigi BSOD
+
+	waluigibsod.github.io
+*/
+
+body {
+	background-color: #002366;
+	color: #FFFFFF;
+	font-family: "Lucida Console";
+}
+
+/* Links */
+
+a:link {
+	background-color: #D3D3D3;
+	border-style: outset;
+	color: #000000;
+	text-decoration: none;
+}
+
+a:visited {
+	background-color: #D3D3D3;
+	border-style: outset;
+	color: #000000;
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: #F5F5F5;
+	border-color: #F5F5F5;
+	border-style: outset;
+	color: #000000;
+	text-decoration: none;
+}
+
+a:active {
+	background-color: #D3D3D3;
+	border-style: inset;
+	color: #000000;
+	text-decoration: none;
+}
+
+/* Tables */
+
+table.border {
+	border: 1px solid #FFFFFF;
+	table-layout: auto;
+	text-align: center;
+}
+
+th.border {
+	border: 1px solid #FFFFFF;
+	text-align: center;
+}
+
+td.border {
+	border: 1px solid #FFFFFF;
+	text-align: center;
+}
+
+table {
+	table-layout: fixed;
+	text-align: left;
+	width: 50%;
+}
+
+th {
+	text-align: left;
+}
+
+td {
+	text-align: left;
+}
