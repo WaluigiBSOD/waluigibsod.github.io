@@ -14,6 +14,33 @@ body {
 
 /* Links */
 
+a.subpage:link {
+	background-color: #002366;
+	border-style: none;
+}
+
+a.subpage:visited {
+	background-color: #002366;
+	border-style: none;
+}
+
+a.subpage:hover {
+	background-color: #002366;
+	border-style: none;
+}
+
+a.subpage:active {
+	background-color: #002366;
+	border-style: none;
+}
+
+a.subpage {
+	color: #FFFFFF;
+	display: inline-grid;
+	text-align: left;
+	text-decoration: underline;
+}
+
 a:link {
 	background-color: #D3D3D3;
 	border-style: outset;
@@ -42,7 +69,21 @@ a {
 	text-decoration: none;
 }
 
+/* Separators */
+
+hr {
+	color: #FFFFFF;
+	opacity: 0%;
+}
+
 /* Tables */
+
+table.subpage {
+	border: 5px solid #FFFFFF;
+	table-layout: auto;
+	text-align: left;
+	width: 100%;
+}
 
 table.border {
 	border: 1px solid #FFFFFF;
