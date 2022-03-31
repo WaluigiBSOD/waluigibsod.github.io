@@ -102,6 +102,20 @@ td.border {
 	text-align: center;
 }
 
+td.border-left {
+	border-left: 1px solid #FFFFFF;
+	text-align: center;
+}
+
+td.border-right {
+	border-right: 1px solid #FFFFFF;
+	text-align: center;
+}
+
+td.centered {
+	text-align: center;
+}
+
 table {
 	table-layout: fixed;
 	text-align: left;
