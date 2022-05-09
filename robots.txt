@@ -1,0 +1,9 @@
+# WaluigiBSOD
+# 
+# waluigibsod.github.io
+
+# There is absolutely no need to index this troll page.
+# Thanks a million.
+
+User-agent: *
+Disallow: /404.html
