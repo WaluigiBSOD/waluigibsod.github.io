@@ -12,7 +12,7 @@ It's very minimalist, but looks pretty good overall.
 
 It's a troll, embeds [a video made years ago by Supastarrio](https://www.youtube.com/watch?v=bcDPt6vxkKs), left intentionally mute to make the video auto-play.
 
-It can be triggered by visiting every page that doesn't exist in this repository or in all the others, here are some funny examples:
+It can be triggered by visiting every page that doesn't exist, except ones inside other repositories where GitHub Pages is enabled, here are some funny examples:
 
 * https://waluigibsod.github.io/download-more-ram
 * https://waluigibsod.github.io/tcrf-ban-appeals-form
