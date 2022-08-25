@@ -3,7 +3,71 @@
 # waluigibsod.github.io
 
 # There is absolutely no need to index this troll page.
+#
 # Thanks a million.
 
 User-agent: *
 Disallow: /404.html
+
+# Also, there is no need to make website copiers make local copies of this website.
+#
+# Actually, it's just a matter of cloning or forking the repository on GitHub.
+# However, all of this should deter most of idiots from doing it.
+#
+# All I want is to block offline copiers, online ones like Archive.org are welcome to make copies of this website.
+# I don't pay a single Euro on hosting this website, so who cares of saving bandwidth (but remember that "cloud" = "somebody else's computer").
+# Including shitty search engines who repeatedly download entire websites ad nauseam (yes, I'm talking to you, Bing).
+#
+# Source: http://www.techiezone.net/tutorials/tips-tricks/use-robots-txt-to-prevent-website-from-being-ripped/ (original)
+#         https://archive.ph/s3f1d (archived)
+
+User-agent: BlackWidow
+Disallow: /
+
+User-agent: EmailCollector
+Disallow: /
+
+User-agent: EmailSiphon
+Disallow: /
+
+User-agent: HTTP Weazel
+Disallow: /
+
+User-agent: HTTrack Website Copier
+Disallow: /
+
+User-agent: Leech
+Disallow: /
+
+User-agent: Offline Commander
+Disallow: /
+
+User-agent: Offline Explorer Pro
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: Web Downloader
+Disallow: /
+
+User-agent: WebBandit
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: WebReaper
+Disallow: /
+
+User-agent: WebSnake
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: WebZIP
+Disallow: /

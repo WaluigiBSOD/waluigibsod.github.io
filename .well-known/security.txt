@@ -1,0 +1,29 @@
+# WaluigiBSOD
+# 
+# waluigibsod.github.io
+
+# Contact Info
+
+Contact: https://waluigibsod.github.io/#contact
+
+# Preferred Languages
+#
+# They should be obvious if you ever spoke to me at least once, especially on the TCRF Discord server.
+
+Preferred-Languages: en, it
+
+# Canonical URLs
+#
+# Where this text file will be accessed from the website.
+#
+# In my opinion it had more sense to be put only in the root of the website, but putting it in both locations to be safe.
+
+Canonical: https://waluigibsod.github.io/.well-known/security.txt
+
+Canonical: https://waluigibsod.github.io/security.txt
+
+# Expiration
+#
+# Best before: 03:14:07 UTC on 19 January 2038
+
+Expires: 2038-01-19T03:14:07.000Z

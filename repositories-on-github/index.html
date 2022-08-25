@@ -18,8 +18,78 @@
 	<h1 id="title">WaluigiBSOD</h1>
 	
 	<h2 id="github">Repositories on GitHub</h2>
+	
+	All the repositories except <i>waluigibsod.github.io</i> follow the same three-part scheme nomenclature (the A-B-C naming scheme, for example like <i>dm64-password-tool</i>).
+	<br>
+	Meaning is given differently on a category-wise basis, check out their respective sub-sections below for more information.
 		
 	<h3 id="videogames">Videogames</h3>
+	
+	All the repositories belonging in this section comply with the following nomenclature scheme:
+	
+	<ul>
+		<li>
+		The first part of the repository name denotes a game unique identifier, that consists of four alphanumeric characters.
+		<br>
+		<br>
+		In case the game name is unique across all consoles/platforms, it's computed by taking the first four letters or numbers of the first four words that compose its title.
+		In case the game title is composed of less than four words, it's padded at the end with more characters from the last word.
+		<br>
+		<br>
+		In case the game name is not unique across all consoles/platforms or it's unique and the title is composed overall by less than four alphanumeric characters (but more than one) in total, the precedent rule applies, but with a twist.
+		Only the first two alphanumeric characters obtained with the precedent method are taken in consideration as will be padded at the end by a console/platform identifier (the "short" ones in the table below).
+		<br>
+		<br>
+		In case the game name consists by only a single alphanumeric character, is padded at the end by a longer console/platform identifier (the "long" ones in the table below).
+		<br>
+		<br>
+		<table class="border">
+			<tr>
+				<th class="border" rowspan="2">Console/Platform</th>
+				<th class="border" colspan="2">Identifier</th>
+				<th class="border" rowspan="2">Notes</th>
+			</tr>
+			<tr>
+				<th class="border">Short</th>
+				<th class="border">Long</th>
+			</tr>
+			<tr>
+				<td class="border">Nintendo 64</td>
+				<td class="border">64</td>
+				<td class="border">n64</td>
+				<td class="border"></td>
+			</tr>
+			<tr>
+				<td class="border">Nintendo GameCube</td>
+				<td class="border">gc</td>
+				<td class="border">gcn</td>
+				<td class="border">GCN is Nintendo's official acronym for it</td>
+			</tr>
+			<tr>
+				<td class="border">Sega Genesis/Mega Drive</td>
+				<td class="border">ge</td>
+				<td class="border">gen</td>
+				<td class="border">The US name is chosen, for being most widely known</td>
+			</tr>
+		</table>
+		<br>
+		Such identifiers are chosen to be the best compromise between easy recognizability and uniqueness.
+		Long identifiers are made by basically adding another alphanumeric character to short ones.
+		</li>
+		
+		<br>
+		
+		<li>
+		The second part details, with only one word, what aspect of the videogame the repository is about.
+		In cases where only one word might generate confusion, another one is used alongside it.
+		</li>
+		
+		<br>
+		
+		<li>
+		The third and last part describes, with only one word, specifically what is contained in the repository does regarding the aspect of the videogame detailed before.
+		</li>
+	</ul>
 	
 	<h4 id="alienstorm-genesis">Alien Storm (Genesis)</h4>
 	
@@ -58,7 +128,7 @@
 		</tr>
 		<tr id="dm64-password-tool">
 			<td class="border"><a href="https://github.com/WaluigiBSOD/dm64-password-tool">dm64-password-tool</a></td>
-			<td class="border">Dr. Mario 64 Password Encoder/Decoder Tool</td>
+			<td class="border">A command-line tool written in C++ that allows to encode and decode the passwords of Dr. Mario 64.</td>
 			<td class="border">1.0 Beta</td>
 			<td class="border">C++</td>
 			<td class="border">English</td>
@@ -90,6 +160,32 @@
 			<td class="border">JavaScript port of an Adobe Flash application that decodes Mario Kart: Double Dash!! Time Trials contest passwords.</td>
 			<td class="border">1.0.5</td>
 			<td class="border">JavaScript</td>
+			<td class="border">English</td>
+		</tr>
+	</table>
+	
+	<h3 id="websites">Websites</h3>
+	
+	All the repositories belonging in this section don't follow a fixed or shared nomenclature scheme.
+	
+	<h4 id="waluigibsod">WaluigiBSOD</h4>
+	
+	<table class="border">
+		<tr>
+			<th class="border" rowspan="2">Name</th>
+			<th class="border" rowspan="2">Description</th>
+			<th class="border" rowspan="2">Version</th>
+			<th class="border" colspan="2">Language</th>
+		</tr>
+		<tr>
+			<th class="border">Program</th>
+			<th class="border">Content</th>
+		</tr>
+		<tr id="waluigibsod.github.io">
+			<td class="border"><a href="https://waluigibsod.github.io/">waluigibsod.github.io</a></td>
+			<td class="border">My (small and raw) personal website.</td>
+			<td class="border">N/A</td>
+			<td class="border">N/A</td>
 			<td class="border">English</td>
 		</tr>
 	</table>

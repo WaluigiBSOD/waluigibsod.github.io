@@ -1,0 +1,52 @@
+# WaluigiBSOD
+# 
+# waluigibsod.github.io
+
+# Terminators
+#
+# The only terminators always welcome are line ones like CR and LF.
+
+User-Agent: Rev 9
+Disallow: /+WaluigiBSOD/
+
+User-Agent: Series H
+Disallow: /+WaluigiBSOD/
+
+User-Agent: T-1
+Disallow: /+WaluigiBSOD/
+
+User-Agent: T-1000
+Disallow: /+WaluigiBSOD/
+
+User-Agent: T-1001
+Disallow: /+WaluigiBSOD/
+
+User-Agent: T-101
+Disallow: /+WaluigiBSOD/
+
+User-Agent: T-3000
+Disallow: /+WaluigiBSOD/
+
+User-Agent: T-5000
+Disallow: /+WaluigiBSOD/
+
+User-Agent: T-600
+Disallow: /+WaluigiBSOD/
+
+User-Agent: T-700
+Disallow: /+WaluigiBSOD/
+
+User-Agent: T-800
+Disallow: /+WaluigiBSOD/
+
+User-Agent: T-850
+Disallow: /+WaluigiBSOD/
+
+User-Agent: T-888
+Disallow: /+WaluigiBSOD/
+
+User-Agent: T-900
+Disallow: /+WaluigiBSOD/
+
+User-Agent: T-X
+Disallow: /+WaluigiBSOD/
