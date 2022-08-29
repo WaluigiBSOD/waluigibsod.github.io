@@ -9,65 +9,49 @@
 User-agent: *
 Disallow: /404.html
 
-# Also, there is no need to make website copiers make local copies of this website.
-#
-# Actually, it's just a matter of cloning or forking the repository on GitHub.
-# However, all of this should deter most of idiots from doing it.
-#
-# All I want is to block offline copiers, online ones like Archive.org are welcome to make copies of this website.
-# I don't pay a single Euro on hosting this website, so who cares of saving bandwidth (but remember that "cloud" = "somebody else's computer").
-# Including shitty search engines who repeatedly download entire websites ad nauseam (yes, I'm talking to you, Bing).
-#
-# Source: http://www.techiezone.net/tutorials/tips-tricks/use-robots-txt-to-prevent-website-from-being-ripped/ (original)
-#         https://archive.ph/s3f1d (archived)
-
-User-agent: BlackWidow
-Disallow: /
-
-User-agent: EmailCollector
-Disallow: /
-
-User-agent: EmailSiphon
-Disallow: /
-
-User-agent: HTTP Weazel
-Disallow: /
-
-User-agent: HTTrack Website Copier
-Disallow: /
-
-User-agent: Leech
-Disallow: /
-
-User-agent: Offline Commander
-Disallow: /
-
-User-agent: Offline Explorer Pro
-Disallow: /
-
-User-agent: Teleport
-Disallow: /
-
-User-agent: TeleportPro
-Disallow: /
-
-User-agent: Web Downloader
-Disallow: /
-
-User-agent: WebBandit
-Disallow: /
-
-User-agent: WebCopier
-Disallow: /
-
-User-agent: WebReaper
-Disallow: /
-
-User-agent: WebSnake
-Disallow: /
-
-User-agent: WebStripper
-Disallow: /
-
-User-agent: WebZIP
-Disallow: /
+#                                    :SDgqr
+#                                  .1KIIu2S5:
+#                                 7Q1::7JvsjMX
+#                                .DYi::7v7r77gr
+#                                :Sir7v7777rrus
+#                                 Y:.::iii:..u.
+#                                  :        :.
+#                                :KBL:    .7RX.
+#               ....:.:.:.:.:..vBBBBBBQDggBBBBBBr.:.:.:.:.:.:...
+#            ::i:::iiiiiiiiiii:ir5gBBBBBBBBBBgur:iiiiiiiiiii:::i:i.
+#          :i:::i::............    ..:r77i:.    ............:::::.:i:
+#        .i:.:::.                                              .:i:.:i
+#       .i:.i:                                                   .::.:r
+#       i:.i:                                                      ::.:i
+#      .i.::                                                        i:.i.
+#      .:::.                                                        .i.:.
+#      .:.i                                                          :::.
+#      .:::            .                               ...           :.i.
+#      .::i       .isuSI5uJr:                      :7s22SIUvr.       :::.
+#      .:ii      YuSSIv77u5XuU.          .       :j25XJv7YUK2Uv      i:i
+#  .i:i:::i    .5YSs.      rSvXi    . . . . .   r2sXr      .u1jI.   .i::i:i:
+# JMMMBJ.ii.   j71r         .I7K.  . . . . ... :275.         vvYs   .r:.2BgRb
+# 55IIZ7.ir.. :Z2q           7vjr .....   .... rLs7           d1R.  .ri.JPI25
+# J52Sdv.ri.. .BPM           2qM7 .... .. .... JdZY          .MbQ. ..ri:sb2IU
+# 1IS5gv:r7..  PZDJ         igEB. ...  Jd. ... :BPR.         1EgX ...7i:udXIX
+# jKSKDs:7r... .gDgS.     .sgDQr .... rDb1 .... 7QZR7.     :Sggg. ...7i:ugSXS
+# UKqKMY:r7.... .IRQBESuIPQQQb: .... iZ2Ubv .... iEMBRPU25gQBgI  ....7r:UDPXK
+# 1dqPMJ:77..:..  :jKgQBQQP2i  .....:ZXUjSZr ....  rUEgBQQDqL: ......LriUgqPK
+# IbdPQJi7v...:.:..  .:::..  .......ZPI2I2PZ:...:..  ..::..  ...:.:.:v7iSMbPP
+# IZPZQ1iLv..:::::.........:.:::..:MQZPbPdbBg:.:::.:.........:::::..:s7iIQPEP
+# XDZdB1rvY.:::::::::::::::::::::.URbqPqPqPPQs.::::::::::::::::::::.:LviKQDEZ
+# DBMQBSrJL:::::::::::::::::::::::...........::::::::::::::::::::::::JvrqBMQR
+# SQBBBd7js.:::::::::::::::::::.................:.:::::::::::::::::::sJrQQBBB
+#   i::vJ1J::i:i:i:i::::::::rL77777Lvv7v7vvYvv7v7vv7:::i:::::i:::i:::1j2r::i
+#      :PUu:::i:i:i:i:i:i:7X17iiBq.ir::BB.iii.QQ:ivjSr::i:iii:i:i:i::11P.
+#      rb5j::iiiiiiiiiii:rd:    B7     BP     UB    :P:iiiiiiiiiiiii:2UZ:
+#      rDS2:iiriririririirg.    Br     Qb     2B    :Priririririririi2SDi
+#      7DqUiirrrrrrrrrrrrijEsr::BK.i::.BB.:i:.DB.iruPYirrrrrrrrrrrriiSSQ:
+#      7RKSirr7rrr7r7rrrrri72I52525SKII25UXSXI2225Surirr7r7r7r7rrrrirXqQi
+#      vQqPvi7777777r7r777rrrrrririrrrriirrrrriiirirr7r7r7r7777777rrvdKBi
+#      .BPdXrr77v7v7v7v7v7v7v777v7v7v77777v777v777v7v7v7v7v7v7v7v7rrPPdB
+#       ZBPDX7r77LvvvLvLvLvLvL7LvL7L7v7Lvv7vvvvLvL7LvLvLvLvLvL7v777PEdBK
+#        BBEgd1777vvLvYvLvYvLvYvYvLvLvLvYvYvLvLvYvLvYvYvYvYvL777vuDDDBB
+#         MBQMREIJvv7v7v7v7v7v7v7v7v7v7v7v7v7v7v7v7v7v7v7v7vvYJXdQgBQE
+#          rBBBBBRgdPKPKPKPKPKPKqqPKPqqqPKPKPKPKPKPKPKPKPKPPZDQQBBBBi
+#             iIqEZggMgRgMgMgRgRgRgRgMgMgRgMgRgMgRgRgRgMgMggDgdPui
