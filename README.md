@@ -20,3 +20,10 @@ It can be triggered by visiting every page that doesn't exist, except ones insid
 * https://waluigibsod.github.io/wata-games-leaked-romset
 
 Did this on purpose, in case I have the need to (e.g. when some [beytah kid](https://www.urbandictionary.com/define.php?term=Beytah%20Kid) pesters me for prototypes that are not even confirmed to exist anymore or that never existed).
+
+## Disclaimer
+This website may contain copyrighted material, the use of which may not have been specifically authorized by the copyright owner.
+
+This should constitute a ‘fair use’ of any such copyrighted material (referenced and provided for in section 107 of the US Copyright Law).
+
+If you wish to use any copyrighted material from this website for purposes of your own that go beyond ‘fair use’, you must obtain expressed permission from the copyright owner.

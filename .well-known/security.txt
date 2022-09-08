@@ -8,7 +8,7 @@ Contact: https://waluigibsod.github.io/#contact
 
 # Preferred Languages
 #
-# They should be obvious if you ever spoke to me at least once, especially on the TCRF Discord server.
+# They should be obvious if you ever spoke to me at least once on Internet.
 
 Preferred-Languages: en, it
 

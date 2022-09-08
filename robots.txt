@@ -9,6 +9,14 @@
 User-agent: *
 Disallow: /404.html
 
+# Also, there is absolutely no need to index random Git/GitHub files for internal use.
+
+User-agent: *
+Disallow: /*/.gitattributes
+
+User-agent: *
+Disallow: /*/.nojekyll
+
 #                                    :SDgqr
 #                                  .1KIIu2S5:
 #                                 7Q1::7JvsjMX
