@@ -4,6 +4,10 @@
 	waluigibsod.github.io
 */
 
+/*
+	Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 4.0 International license.
+*/
+
 /* Body */
 
 body {
@@ -14,59 +18,59 @@ body {
 
 /* Links */
 
-a.subpage:link {
-	background-color: #002366;
-	border-style: none;
-}
-
-a.subpage:visited {
-	background-color: #002366;
-	border-style: none;
-}
-
-a.subpage:hover {
-	background-color: #002366;
-	border-style: none;
-}
-
-a.subpage:active {
-	background-color: #002366;
-	border-style: none;
-}
-
-a.subpage {
-	color: #FFFFFF;
-	display: inline-grid;
-	text-align: left;
-	text-decoration: underline;
-}
-
-a:link {
+a.button:link {
 	background-color: #D3D3D3;
 	border-style: outset;
 }
 
-a:visited {
+a.button:visited {
 	background-color: #D3D3D3;
 	border-style: outset;
 }
 
-a:hover {
+a.button:hover {
 	background-color: #F5F5F5;
 	border-color: #F5F5F5;
 	border-style: outset;
 }
 
-a:active {
+a.button:active {
 	background-color: #D3D3D3;
 	border-style: inset;
 }
 
-a {
+a.button {
 	color: #000000;
 	display: inline-grid;
 	text-align: center;
 	text-decoration: none;
+}
+
+a:link {
+	background-color: #002366;
+	border-style: none;
+}
+
+a:visited {
+	background-color: #002366;
+	border-style: none;
+}
+
+a:hover {
+	background-color: #002366;
+	border-style: none;
+}
+
+a:active {
+	background-color: #002366;
+	border-style: none;
+}
+
+a {
+	color: #FFFFFF;
+	display: inline-grid;
+	text-align: left;
+	text-decoration: underline;
 }
 
 /* Separators */

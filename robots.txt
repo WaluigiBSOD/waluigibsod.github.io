@@ -2,19 +2,37 @@
 # 
 # waluigibsod.github.io
 
-# There is absolutely no need to index this troll page.
+# At first, allowing everything.
+#
+# Just in case some stupid web crawler/spider bot needs to be told so.
+
+User-agent: *
+Allow: /
+
+# Then, there is absolutely no need to index the 404 error troll page on the root of the website.
+#
+# And, in general, absolutely no 404 error page at all regardless if being HTML or Markdown (https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site).
 #
 # Thanks a million.
 
 User-agent: *
 Disallow: /404.html
-
-# Also, there is absolutely no need to index random Git/GitHub files for internal use.
+Disallow: /*/404.html
 
 User-agent: *
+Disallow: /404.md
+Disallow: /*/404.md
+
+# Also, there is absolutely no need to index random Git/GitHub files for internal use.
+#
+# Currently affects https://git-scm.com/docs/gitattributes and https://github.blog/2009-12-29-bypassing-jekyll-on-github-pages/.
+
+User-agent: *
+Disallow: /.gitattributes
 Disallow: /*/.gitattributes
 
 User-agent: *
+Disallow: /.nojekyll
 Disallow: /*/.nojekyll
 
 #                                    :SDgqr
