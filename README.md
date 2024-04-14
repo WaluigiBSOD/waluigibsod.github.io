@@ -2,13 +2,13 @@
 
 My (small and raw) personal website.
 
-## How was Made
+## How was made
 
-Made using [Haroopad](http://pad.haroopress.com/) and [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) with only HTML and CSS, no JavaScript as it's not needed (but it's used in other repositories as they actually need it).
+Made using [Ghostwriter](https://ghostwriter.kde.org/) and [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) with only HTML and CSS, no JavaScript as it's not needed (but it's used in other repositories as they actually need it).
 
 It's very minimalist, but looks pretty good overall.
 
-## 404 Error Page
+## 404 error page
 
 It's a troll, embeds [a video made more than 10 years ago by Supastarrio](https://www.youtube.com/watch?v=bcDPt6vxkKs), left intentionally mute to make the video auto-play.
 
