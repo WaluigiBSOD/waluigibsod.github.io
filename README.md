@@ -4,7 +4,7 @@ My (small and raw) personal website.
 
 ## How was made
 
-Made using [Ghostwriter](https://ghostwriter.kde.org/) and [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) with only HTML and CSS, no JavaScript as it's not needed (but it's used in other repositories as they actually need it).
+Made using [Ghostwriter](https://github.com/KDE/ghostwriter) and [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) with only HTML and CSS, no JavaScript as it's not needed (but it's used in other repositories as they actually need it).
 
 It's very minimalist, but looks pretty good overall.
 
