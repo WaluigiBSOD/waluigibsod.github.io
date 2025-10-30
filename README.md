@@ -4,7 +4,7 @@ My (small and raw) personal website.
 
 ## How was made
 
-Made using [Ghostwriter](https://github.com/KDE/ghostwriter) and [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) with only HTML and CSS, no JavaScript as it's not needed (but it's used in other repositories as they actually need it).
+Made using [Ghostwriter](https://github.com/KDE/ghostwriter) and [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) with only HTML and CSS, JavaScript is only used inside the 404 error page from YouTube's `<iframe>` (all of this is only about this repository, for example other repositories may have their own JavaScript code stored inside because they need it to work, their webpages may have been generated using a third-party program or they may don't have webpages at all).
 
 It's very minimalist, but looks pretty good overall.
 
