@@ -29,12 +29,4 @@ Did this on purpose, in case I have the need to (e.g. when some [beytah kid](htt
 
 ## License
 
-Except where otherwise [noted](https://github.com/WaluigiBSOD), content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/) (see [LICENSE](https://github.com/WaluigiBSOD/waluigibsod.github.io/blob/master/LICENSE) in the root of the repository for a copy of the license and for more information).
-
-### Disclaimer
-
-This website may contain copyrighted material, the use of which may not have been specifically authorized by the copyright owner.
-
-This should constitute a ‘fair use’ of any such copyrighted material (referenced and provided for in section 107 of the US Copyright Law).
-
-If you wish to use any copyrighted material from this website for purposes of your own that go beyond ‘fair use’, you must obtain expressed permission from the copyright owner.
+Except [where otherwise noted](https://github.com/WaluigiBSOD), content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/) (see [LICENSE](https://github.com/WaluigiBSOD/waluigibsod.github.io/blob/master/LICENSE) in the root of the repository for a copy of the license and for more information).
