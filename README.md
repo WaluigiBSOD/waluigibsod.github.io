@@ -2,13 +2,13 @@
 
 My (small and raw) personal website.
 
-## How was made
+## Software Used
 
 Made using [Ghostwriter](https://github.com/KDE/ghostwriter) and [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) with only HTML and CSS, JavaScript is only used inside the 404 error page from YouTube's `<iframe>` (all of this is only about this repository, for example other repositories may have their own JavaScript code stored inside because they need it to work, their webpages may have been generated using a third-party program or they may don't have webpages at all).
 
 It's very minimalist, but looks pretty good overall.
 
-## 404 error page
+## 404 Error Page
 
 It's a troll, embeds [a video made more than 10 years ago by Supastarrio](https://www.youtube.com/watch?v=bcDPt6vxkKs), left intentionally mute to make the video auto-play.
 
@@ -29,4 +29,4 @@ Did this on purpose, in case I have the need to (e.g. when some [beytah kid](htt
 
 ## License
 
-Except [where otherwise noted](https://github.com/WaluigiBSOD), content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/) (see [LICENSE](https://github.com/WaluigiBSOD/waluigibsod.github.io/blob/master/LICENSE) in the root of the repository for a copy of the license and for more information).
+Except [where otherwise noted](https://github.com/WaluigiBSOD?tab=repositories), content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/) (see [`LICENSE`](https://github.com/WaluigiBSOD/waluigibsod.github.io/blob/master/LICENSE) in the root of the repository for a copy of the license and for more information).
