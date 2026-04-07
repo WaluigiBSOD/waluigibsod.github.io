@@ -29,4 +29,4 @@ Did this on purpose, in case I have the need to (e.g. when some [beytah kid](htt
 
 ## License
 
-Except [where otherwise noted](https://github.com/WaluigiBSOD?tab=repositories), content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/) (see [`LICENSE`](https://github.com/WaluigiBSOD/waluigibsod.github.io/blob/master/LICENSE) in the root of the repository for a copy of the license and for more information).
+Except [where otherwise noted](https://github.com/WaluigiBSOD?tab=repositories), content on this site is licensed under the Creative Commons Attribution 4.0 International license (see [`LICENSE`](https://github.com/WaluigiBSOD/waluigibsod.github.io/blob/master/LICENSE) in the root of the repository for a copy of the license and for more information).
